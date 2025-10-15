@@ -1,2 +1,5 @@
 # particlenet-tau-multiclassifier
-Multiclass classifier for tau lepton identification using ParticleNet architecture
+
+Implementation of a multiclass classifier for tau lepton identification using ParticleNet architecture.
+
+------
